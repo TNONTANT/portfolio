@@ -10,3 +10,6 @@ This project applies LSTM deep learning to predict Rossman store sales. Using hi
 
 # [Project 4: Natuaral Language Processing text sentiment analysis](https://github.com/TNONTANT/NLP-text-classification/blob/main/textClassification.ipynb)
 Text classification is a common task in natural language processing, and the IMDB dataset is a popular resource for this purpose. It consists of movie reviews labelled as positive or negative, and the goal of text classification is to predict the sentiment of a review based on the text. There are various approaches to text classification, including the use of machine learning algorithms such as support vector machines, decision trees, and neural networks. In this project, we will explore the use of these techniques to classify movie reviews in the IMDB dataset, with the aim of accurately predicting the sentiment of a review based on its text.
+
+# [Project 5: Movie Recommendation System](https://github.com/TNONTANT/Movie-Recommendation-system/tree/main)
+A movie recommendation system project utilizing the MovieLens dataset. Creating an advanced recommendation system to suggest personalized movie recommendations based on user preferences and historical data.
